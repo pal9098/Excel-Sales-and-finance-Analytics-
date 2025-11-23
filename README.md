@@ -1,7 +1,7 @@
 # Excel-Sales-and-finance-Analytics-
 
 ## 🔍 Project Overview
-This project focuses on building a professional Sales and finance Analytics dashboard using Excel to uncover customer trends, market performance, and sales KPIs. The goal is to empower businesses to make informed sales decisions using clean and actionable data.
+This project focuses on building a professional Sales and finance Analytics dashboard using Excel to uncover customer trends, market performance, and sales KPIs ,detailed Profit & Loss (P&L) analysis across fiscal years, markets, and months. Built entirely in Excel, it provides a strong foundation for financial planning, performance review, and strategic forecasting. The goal is to empower businesses to make informed sales decisions using clean and actionable data.
 
 ---
 
