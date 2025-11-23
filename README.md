@@ -66,4 +66,4 @@ This project can help companies:
 
 ## 📫 Contact
 **Email**: pallavishisode144@gmail.com  
-**LinkedIn**: 
+**LinkedIn**: http://linkedin.com/in/pallavi-shisode-9aab39253
